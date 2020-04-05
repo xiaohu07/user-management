@@ -1,4 +1,4 @@
-package com.xiao.user.management;
+package com.xiao.usermanagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

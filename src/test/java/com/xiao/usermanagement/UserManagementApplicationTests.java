@@ -1,4 +1,4 @@
-package com.xiao.user.management;
+package com.xiao.usermanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
